@@ -10,6 +10,8 @@ public class Quote {
 	
 	private double PERatioRealtime;
 	
+	private String helloworld;
+	
 	
 	
 	
